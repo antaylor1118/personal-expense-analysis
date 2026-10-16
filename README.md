@@ -20,3 +20,7 @@ The total expenses are $730 across seven categories. Groceries has the highest s
 
 ## What I Learned
 I learned how to organize and analyze data using Python and Pandas. I also practiced checking data quality and creating charts using Matplotlib.
+
+## Data Visualization
+
+![Monthly Expense Chart](monthly_expenses.png)
